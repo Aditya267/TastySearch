@@ -11,13 +11,12 @@
 <br />   https://drive.google.com/file/d/0B8_VSW2-5XmpSTNlZXV4cVdLRUE/view
 <br />   or
 <br />   http://snap.stanford.edu/data/web
-<br /> 
-<br />   Extract the 'finefoods.txt' and paste it at Clone-Location/TastySearch/src/main/resources .
-<br />   
+<br />   Extract the 'finefoods.txt'.
+<br /> 3. Copy the 'finefoods.txt' to Clone-Location/TastySearch/src/main/resources
 <br />   Note: filename should be 'finefoods.txt' only.
-<br /> 3. Under the Clone-Location/TastySearch run command 'mvn package'.
-<br /> 4. Download the [Tomcat](https://tomcat.apache.org/download-90.cgi).
-<br /> 5. Copy the TastySearch.war file from Clone-Location/TastySearch/target to webapp folder under Tomcat directory.
-<br /> 6. Run ./startup.sh or ./startup.bat(for windows os) present under Tomcat/bin folder.
-<br /> 7. Go to http://localhost:8080/TastySearch/UserForm.html 
+<br /> 4. Under the Clone-Location/TastySearch run command 'mvn package'.
+<br /> 5. Download the [Tomcat](https://tomcat.apache.org/download-90.cgi).
+<br /> 6. Copy the TastySearch.war file from Clone-Location/TastySearch/target to webapp folder under Tomcat directory.
+<br /> 7. Run ./startup.sh or ./startup.bat(for windows os) present under Tomcat/bin folder.
+<br /> 8. Go to http://localhost:8080/TastySearch/UserForm.html 
 
