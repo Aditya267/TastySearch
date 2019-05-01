@@ -6,8 +6,8 @@
 <br /> [Tomcat 9.0.19](https://tomcat.apache.org/download-90.cgi)
 
 <br /> Steps To Run:
-<br /> 1.Clone the repository 
-<br /> 2.Download the data set from the following link:
+<br /> 1. Clone the repository 
+<br /> 2. Download the data set from the following link:
 <br />   https://drive.google.com/file/d/0B8_VSW2-5XmpSTNlZXV4cVdLRUE/view
 <br />   or
 <br />   http://snap.stanford.edu/data/web
